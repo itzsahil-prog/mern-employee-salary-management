@@ -1,6 +1,6 @@
 <H1 align ="center" >MERN EMPLOYEE SALARY MANAGEMENT<br/>{ SiPeKa }</h1>
 <h5  align ="center"> 
-SiPeKa (Employee Payroll System) is a system used by companies to manage employee payroll processes efficiently and accurately. This system plays a key role in automating various tasks related to payroll, such as calculating payroll, processing attendance, and paying employee wages.<br/> In SiPeKa, employee information such as personal data, position and salary level is stored centrally. Every month, the system will retrieve employee attendance data and perform salary calculations based on the available information. This includes factors such as relevant hours worked, leave, overtime and deductions.</h5>
+SiPeKa (Employee Payroll System) is a system used by companies to manage employee payroll processes efficiently and accurately. This system plays a key role in automating various tasks related to payroll, such as calculating payroll, processing attendance, and paying employee wages.<br/> In SiPeKa, employee information such as personal data, position, and salary level is stored centrally. Every month, the system will retrieve employee attendance data and perform salary calculations based on the available information. This includes factors such as relevant hours worked, leave, overtime, and deductions.</h5>
 <br/>
 
   * [Configuration and Setup](#configuration-and-setup)
@@ -16,10 +16,10 @@ SiPeKa (Employee Payroll System) is a system used by companies to manage employe
 
 ## Configuration and Setup
 
-In order to run this project locally, simply fork and clone the repository or download as zip and unzip on your machine.
+In order to run this project locally, simply fork and clone the repository or download it as a zip and unzip it on your machine.
 
-- Open the project in your prefered code editor.
-- Go to terminal -> New terminal (If you are using VS code)
+- Open the project in your preferred code editor.
+- Go to terminal -> New terminal (If you are using VS Code)
 - Split your terminal into two (run the Frontend on one terminal and the server on the other terminal)
 
 In the first terminal
@@ -61,9 +61,9 @@ $ npm start (to start the Backend)
 - Add position
 - Edit position
 - Remove position
-- Display data, input attendance, edit attendance and delete employee absences
+- Display data, input attendance, edit attendance, and delete employee absences
 - Employee Salary Deduction Setting
-- Display data, input salary data, edit salary data and delete employee salary data
+- Display data, input salary data, edit salary data, and delete employee salary data
 - Print payroll reports, absences, and payslips
 - Change admin and employee passwords
 - Login Employees/Staff
@@ -84,7 +84,7 @@ This project was created using the following technologies.
 - [React Router Dom](https://www.npmjs.com/package/react-router-dom) - To handle routing
 - [Axios](https://www.npmjs.com/package/axios) - For making Api calls
 - [Tailwind CSS](https://tailwindcss.com/) - For User Interface
-- [React icons](https://react-icons.github.io/react-icons/) - Small library that helps you add icons  to your react apps
+- [React icons](https://react-icons.github.io/react-icons/) - Small library that helps you add icons  to your React apps
 - [Redux](https://redux.js.org/) - Managing complex application state
 - [Localforage](https://localforage.github.io/localForage/) - Saves data in the web browser asynchronously
 - [React Vite](https://vitejs.dev/guide/) - Improved website speed
@@ -117,39 +117,39 @@ This project was created using the following technologies.
  - [MySQL ](https://www.mysql.com/) - It provides a free cloud service to store MongoDB collections.
  ##  Screenshots
 
-![img-1](https://github.com/berthutapea/mern-employee-salary-management/assets/111676859/a3f72509-8ca0-452b-b121-ff4ecf94580d)
+![img-1](https://github.com/itzsahil-prog/mern-employee-salary-management/assets/111676859/a3f72509-8ca0-452b-b121-ff4ecf94580d)
 ---- -
-![img-2](https://github.com/berthutapea/mern-employee-salary-management/assets/111676859/e7998109-d53d-4c93-80eb-f6e9c05f44b4)
+![img-2](https://github.com/itzsahil-prog/mern-employee-salary-management/assets/111676859/e7998109-d53d-4c93-80eb-f6e9c05f44b4)
 --- -
-![img-3](https://github.com/berthutapea/mern-employee-salary-management/assets/111676859/f7424cc9-2b63-49af-a2b7-37bd9e79e342)
+![img-3](https://github.com/itzsahil-prog/mern-employee-salary-management/assets/111676859/f7424cc9-2b63-49af-a2b7-37bd9e79e342)
 --- -
-![img-4](https://github.com/berthutapea/mern-employee-salary-management/assets/111676859/0c2859cb-2d56-447c-bd19-fabe707988aa)
+![img-4](https://github.com/itzsahil-prog/mern-employee-salary-management/assets/111676859/0c2859cb-2d56-447c-bd19-fabe707988aa)
 --- -
-![img-5](https://github.com/berthutapea/mern-employee-salary-management/assets/111676859/ed0af932-ea78-44ac-ba91-48eb91449517)
+![img-5](https://github.com/itzsahil-prog/mern-employee-salary-management/assets/111676859/ed0af932-ea78-44ac-ba91-48eb91449517)
 --- -
-![img-6](https://github.com/berthutapea/mern-employee-salary-management/assets/111676859/3efac0b3-b2d5-45ec-b82c-82b9b191ffd2)
+![img-6](https://github.com/itzsahil-prog/mern-employee-salary-management/assets/111676859/3efac0b3-b2d5-45ec-b82c-82b9b191ffd2)
 --- -
-![img-7](https://github.com/berthutapea/mern-employee-salary-management/assets/111676859/5d6f9974-7b8e-4c12-a049-44368640dc62)
+![img-7](https://github.com/itzsahil-prog/mern-employee-salary-management/assets/111676859/5d6f9974-7b8e-4c12-a049-44368640dc62)
 --- -
-![img-8](https://github.com/berthutapea/mern-employee-salary-management/assets/111676859/be9c67c6-376f-450a-9ba3-c968bd9ec063)
+![img-8](https://github.com/itzsahil-prog/mern-employee-salary-management/assets/111676859/be9c67c6-376f-450a-9ba3-c968bd9ec063)
 --- -
-![img-9](https://github.com/berthutapea/mern-employee-salary-management/assets/111676859/8ffef668-7cb1-4004-980c-d2463683ba3b)
+![img-9](https://github.com/itzsahil-prog/mern-employee-salary-management/assets/111676859/8ffef668-7cb1-4004-980c-d2463683ba3b)
 --- -
-![img-10](https://github.com/berthutapea/mern-employee-salary-management/assets/111676859/8067acac-dc49-4f6e-a6aa-f4baae2fa8a5)
+![img-10](https://github.com/itzsahil-prog/mern-employee-salary-management/assets/111676859/8067acac-dc49-4f6e-a6aa-f4baae2fa8a5)
 --- -
-![img-11](https://github.com/berthutapea/mern-employee-salary-management/assets/111676859/ecd09fb0-1f97-4856-ba4d-28170927e070)
+![img-11](https://github.com/itzsahil-prog/mern-employee-salary-management/assets/111676859/ecd09fb0-1f97-4856-ba4d-28170927e070)
 --- -
-![img-12](https://github.com/berthutapea/mern-employee-salary-management/assets/111676859/ecdafe57-1b4a-4ddf-9802-7a4c5d3be141)
+![img-12](https://github.com/itzsahil-prog/mern-employee-salary-management/assets/111676859/ecdafe57-1b4a-4ddf-9802-7a4c5d3be141)
 --- -
-![img-13](https://github.com/berthutapea/mern-employee-salary-management/assets/111676859/f5831815-3cd7-4f83-8193-12c16f859023)
+![img-13](https://github.com/itzsahil-prog/mern-employee-salary-management/assets/111676859/f5831815-3cd7-4f83-8193-12c16f859023)
 --- -
-![img-14](https://github.com/berthutapea/mern-employee-salary-management/assets/111676859/8539843c-39f1-4642-84b6-cb9a2a4b09b9)
+![img-14](https://github.com/itzsahil-prog/mern-employee-salary-management/assets/111676859/8539843c-39f1-4642-84b6-cb9a2a4b09b9)
 --- -
-![img-15](https://github.com/berthutapea/mern-employee-salary-management/assets/111676859/fd0e75e7-b0d5-4fe8-a477-1a1c8b709ca8)
+![img-15](https://github.com/itzsahil-prog/mern-employee-salary-management/assets/111676859/fd0e75e7-b0d5-4fe8-a477-1a1c8b709ca8)
 --- -
-![img-16](https://github.com/berthutapea/mern-employee-salary-management/assets/111676859/90f57d70-6547-4a55-8045-f51aa596061a)
+![img-16](https://github.com/itzsahil-prog/mern-employee-salary-management/assets/111676859/90f57d70-6547-4a55-8045-f51aa596061a)
 --- -
-![img-17](https://github.com/berthutapea/mern-employee-salary-management/assets/111676859/7e0c9850-7c71-4fc3-aa7b-86b323fb1b8b)
+![img-17](https://github.com/itzsahil-prog/mern-employee-salary-management/assets/111676859/7e0c9850-7c71-4fc3-aa7b-86b323fb1b8b)
 
 ## Meet The Teams
 
@@ -161,13 +161,13 @@ This project was created using the following technologies.
     </tr>
     <tr >
       <td align="center">
-        <a href="https://github.com/AldiRamdani0401">
+        <a href="https://github.com/itzsahil-prog">
           <img width="200"  src="https://res.cloudinary.com/du541igfh/image/upload/v1690573793/Blog%20Portfolio%20Gilbert/Project/mern-penggajian-karyawan/Aldi_mkw04y.jpg" alt=""><br/>
           <b>Aldi Ramdani</b>
         </a>
       </td>
       <td align="center">
-        <a href="https://github.com/berthutapea">
+        <a href="https://github.com/itzsahil-prog">
           <img width="200"  src="https://res.cloudinary.com/du541igfh/image/upload/v1690573793/Blog%20Portfolio%20Gilbert/Project/mern-penggajian-karyawan/Gilbert_zx9rbq.jpg" alt=""><br/>
           <b>Gilbert Hutapea</b>
         </a>
@@ -177,11 +177,11 @@ This project was created using the following technologies.
 </center>
 
 ## Author
-- Portfolio: [berthutapea](https://berthutapea.vercel.app/)
-- Github: [berthutapea](https://github.com/berthutapea)
-- Sponsor: [berthutapea](https://saweria.co/berthutapea)
-- Linkedin: [gilberthutapea](https://www.linkedin.com/in/gilberthutapea/)
-- Email: [berthutapea@gmail.com](mailto:berthutapea@gmail.com)
+- Portfolio: [Sahil Goyal](https://sites.google.com/view/sahil-developer/main))
+- Github: [itzsahil-prog](https://github.com/itzsahil-prog)
+- Sponsor: [Sahil Goyal](https://saweria.co/berthutapea)
+- Linkedin: [Sahil Goyal](www.linkedin.com/in/sahil-goyal-6099642bb)
+- Email: [itzsahilg1@gmail.com](mailto:itzsahilg1@gmail.com)
 
 ## License
 
@@ -191,7 +191,7 @@ Copyright (c) 2022 Gilbert Hutapea
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
+in the Software without restriction, including, without limitation, the rights
 to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
 copies of the Software, and to permit persons to whom the Software is
 furnished to do so, subject to the following conditions:
@@ -202,7 +202,7 @@ copies or substantial portions of the Software.
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
 IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
 FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT, OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
