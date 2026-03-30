@@ -156,20 +156,13 @@ This project was created using the following technologies.
 <center>
   <table align="center">
     <tr >
-      <th >Backend Developer</th>
-      <th >Frontend Developer</th>
+      <th >Developer</th>
     </tr>
     <tr >
       <td align="center">
         <a href="https://github.com/itzsahil-prog">
-          <img width="200"  src="https://res.cloudinary.com/du541igfh/image/upload/v1690573793/Blog%20Portfolio%20Gilbert/Project/mern-penggajian-karyawan/Aldi_mkw04y.jpg" alt=""><br/>
+          <img width="200"  src="" alt="https://github.com/itzsahil-prog"><br/>
           <b>Aldi Ramdani</b>
-        </a>
-      </td>
-      <td align="center">
-        <a href="https://github.com/itzsahil-prog">
-          <img width="200"  src="https://res.cloudinary.com/du541igfh/image/upload/v1690573793/Blog%20Portfolio%20Gilbert/Project/mern-penggajian-karyawan/Gilbert_zx9rbq.jpg" alt=""><br/>
-          <b>Gilbert Hutapea</b>
         </a>
       </td>
     </tr>
@@ -177,9 +170,9 @@ This project was created using the following technologies.
 </center>
 
 ## Author
-- Portfolio: [Sahil Goyal](https://sites.google.com/view/sahil-developer/main))
+- Portfolio: [Sahil Goyal](https://sites.google.com/view/sahil-developer/main)
 - Github: [itzsahil-prog](https://github.com/itzsahil-prog)
-- Sponsor: [Sahil Goyal](https://saweria.co/berthutapea)
+- Sponsor: [Sahil Goyal](www.veloxcodeagency.in)
 - Linkedin: [Sahil Goyal](www.linkedin.com/in/sahil-goyal-6099642bb)
 - Email: [itzsahilg1@gmail.com](mailto:itzsahilg1@gmail.com)
 
@@ -187,22 +180,3 @@ This project was created using the following technologies.
 
 MIT License
 
-Copyright (c) 2022 Gilbert Hutapea
-
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including, without limitation, the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT, OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
