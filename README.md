@@ -162,7 +162,7 @@ This project was created using the following technologies.
       <td align="center">
         <a href="https://github.com/itzsahil-prog">
           <img width="200"  src="" alt="https://github.com/itzsahil-prog"><br/>
-          <b>Aldi Ramdani</b>
+          <b>Sahil Goyal</b>
         </a>
       </td>
     </tr>
