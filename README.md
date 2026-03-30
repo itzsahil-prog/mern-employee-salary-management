@@ -161,7 +161,7 @@ This project was created using the following technologies.
     <tr >
       <td align="center">
         <a href="https://github.com/itzsahil-prog">
-          <img width="200"  src="" alt="https://github.com/itzsahil-prog"><br/>
+          <img width="200"  src="https://github.com/itzsahil-prog/VeloxCodeAgency/blob/main/assets/team_sahil.jpg" alt="https://github.com/itzsahil-prog"><br/>
           <b>Sahil Goyal</b>
         </a>
       </td>
